@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>山径手册 · 美国与欧洲经典徒步</title>
+  <meta name="description" content="Junwei Zhang（北京）整理的美国与欧洲经典徒步路线：许可与费用、交通住宿、里程爬升，以及来自 OpenStreetMap 的 GPX 与高程剖面。">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <p class="eyebrow">野外记录 · 不依赖外部字体与脚本库</p>
+      <h1>山径手册</h1>
+      <p class="lede">美国与欧洲的经典徒步路线。原名保留，并附中文名。数据来自公园、步道官网、维基百科与 OpenStreetMap；算不出或对不上的数字会标明，而不是估一个好看的。</p>
+      <p class="byline">Junwei Zhang · 北京</p>
+    </div>
+    <svg class="contour" viewBox="0 0 240 120" aria-hidden="true">
+      <path d="M8 90 C40 88 48 40 80 42 C112 44 120 78 150 70 C176 63 190 30 232 28"/>
+      <path d="M8 100 C46 96 60 58 92 60 C124 62 132 90 168 84 C196 79 206 48 232 46"/>
+      <path d="M12 78 C36 76 44 34 70 36"/>
+    </svg>
+  </header>
+
+  <main id="app">
+    <section class="toolbar" aria-label="筛选与排序">
+      <div class="search-row">
+        <label class="search">
+          <span class="sr">搜索</span>
+          <input id="q" type="search" placeholder="搜索路线、公园、城镇…" autocomplete="off">
+        </label>
+        <p id="count" class="count" aria-live="polite"></p>
+      </div>
+      <div class="filters">
+        <label>地区<select id="f-continent"><option value="">全部</option><option value="us">美国</option><option value="eu">欧洲</option></select></label>
+        <label>国家<select id="f-country"><option value="">全部</option></select></label>
+        <label>长度<select id="f-length">
+          <option value="">全部</option>
+          <option value="s">20 km 以下</option>
+          <option value="m">20–80 km</option>
+          <option value="l">80–200 km</option>
+          <option value="xl">200 km 以上</option>
+        </select></label>
+        <label>累计爬升<select id="f-ascent">
+          <option value="">全部</option>
+          <option value="s">800 m 以下</option>
+          <option value="m">800–2,000 m</option>
+          <option value="l">2,000 m 以上</option>
+          <option value="na">暂无爬升数据</option>
+        </select></label>
+        <label>天数<select id="f-days">
+          <option value="">全部</option>
+          <option value="1">1 天</option>
+          <option value="2">2–4 天</option>
+          <option value="5">5–9 天</option>
+          <option value="10">10 天以上</option>
+        </select></label>
+        <label>难度<select id="f-difficulty">
+          <option value="">全部</option>
+          <option value="easy">轻松</option>
+          <option value="moderate">中等</option>
+          <option value="hard">困难</option>
+          <option value="strenuous">艰辛</option>
+        </select></label>
+        <label>适宜月份<select id="f-month">
+          <option value="">不限</option>
+        </select></label>
+        <label>许可<select id="f-permit">
+          <option value="">全部</option>
+          <option value="yes">需要许可 / 抽签 / 预约</option>
+          <option value="no">不必专门申请</option>
+        </select></label>
+        <label>排序<select id="f-sort">
+          <option value="name">名称</option>
+          <option value="length">长度</option>
+          <option value="ascent">累计爬升</option>
+          <option value="days">天数</option>
+          <option value="difficulty">难度</option>
+          <option value="elev">最高海拔</option>
+        </select></label>
+      </div>
+    </section>
+    <section id="list" class="cards" aria-live="polite"></section>
+    <section id="detail" class="detail" hidden></section>
+  </main>
+
+  <footer class="colophon">
+    <p>轨迹几何 © OpenStreetMap contributors，ODbL。高程采样来自 OpenTopoData 所引用的 DEM，不是实地测绘。照片来自维基共享资源，逐张保留作者与许可。页面脚本与样式都在本仓库内，不加载 Google Fonts、unpkg 或 jsDelivr。</p>
+    <p>费用与开放时间会变。出发前打开每条路线里的官方链接再核对一次。查阅日期写在各条费用旁。</p>
+  </footer>
+  <script src="js/app.js"></script>
+</body>
+</html>

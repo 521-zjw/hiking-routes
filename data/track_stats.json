@@ -1,0 +1,1755 @@
+{
+  "zion-narrows": {
+    "slug": "zion-narrows",
+    "relationIds": [
+      13331651
+    ],
+    "lengthKm": 24.21,
+    "sampledLengthKm": 23.22,
+    "ascentM": 321,
+    "descentM": 719,
+    "ascentRawM": 994,
+    "descentRawM": 1385,
+    "minElevationM": 1368,
+    "maxElevationM": 1788,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 305,
+    "segmentCount": 2,
+    "gapsM": [
+      1106.4
+    ],
+    "start": [
+      37.37807,
+      -112.84726
+    ],
+    "end": [
+      37.29658,
+      -112.94819
+    ],
+    "loop": false,
+    "gpx": "gpx/zion-narrows.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "half-dome": {
+    "slug": "half-dome",
+    "relationIds": [
+      16315186
+    ],
+    "lengthKm": 3.22,
+    "sampledLengthKm": 2.94,
+    "ascentM": 572,
+    "descentM": 13,
+    "ascentRawM": 585,
+    "descentRawM": 23,
+    "minElevationM": 2131,
+    "maxElevationM": 2689,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 82,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.74507,
+      -119.51273
+    ],
+    "end": [
+      37.74594,
+      -119.53328
+    ],
+    "loop": false,
+    "gpx": "gpx/half-dome.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "mist-trail": {
+    "slug": "mist-trail",
+    "relationIds": [
+      6451906
+    ],
+    "lengthKm": 4.25,
+    "sampledLengthKm": 3.78,
+    "ascentM": 624,
+    "descentM": 31,
+    "ascentRawM": 687,
+    "descentRawM": 93,
+    "minElevationM": 1230,
+    "maxElevationM": 1823,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 107,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.73282,
+      -119.55778
+    ],
+    "end": [
+      37.72614,
+      -119.53038
+    ],
+    "loop": false,
+    "gpx": "gpx/mist-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "bright-angel": {
+    "slug": "bright-angel",
+    "relationIds": [
+      2836803
+    ],
+    "lengthKm": 12.54,
+    "sampledLengthKm": 10.2,
+    "ascentM": 8,
+    "descentM": 1343,
+    "ascentRawM": 23,
+    "descentRawM": 1364,
+    "minElevationM": 751,
+    "maxElevationM": 2086,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 158,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      36.05728,
+      -112.14363
+    ],
+    "end": [
+      36.0984,
+      -112.11135
+    ],
+    "loop": false,
+    "gpx": "gpx/bright-angel.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "south-kaibab": {
+    "slug": "south-kaibab",
+    "relationIds": [
+      2836796
+    ],
+    "lengthKm": 10.44,
+    "sampledLengthKm": 9.19,
+    "ascentM": 16,
+    "descentM": 1462,
+    "ascentRawM": 130,
+    "descentRawM": 1574,
+    "minElevationM": 739,
+    "maxElevationM": 2196,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 262,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      36.05294,
+      -112.08374
+    ],
+    "end": [
+      36.10144,
+      -112.08973
+    ],
+    "loop": false,
+    "gpx": "gpx/south-kaibab.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "angels-landing": {
+    "slug": "angels-landing",
+    "relationIds": [
+      7387173
+    ],
+    "lengthKm": 3.58,
+    "sampledLengthKm": 3.13,
+    "ascentM": 474,
+    "descentM": 20,
+    "ascentRawM": 502,
+    "descentRawM": 49,
+    "minElevationM": 1311,
+    "maxElevationM": 1764,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 91,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.25924,
+      -112.95134
+    ],
+    "end": [
+      37.26931,
+      -112.94792
+    ],
+    "loop": false,
+    "gpx": "gpx/angels-landing.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "clouds-rest": {
+    "slug": "clouds-rest",
+    "relationIds": [
+      16759394
+    ],
+    "lengthKm": 15.19,
+    "sampledLengthKm": 13.69,
+    "ascentM": 714,
+    "descentM": 1002,
+    "ascentRawM": 755,
+    "descentRawM": 1060,
+    "minElevationM": 2200,
+    "maxElevationM": 3012,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 191,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.82571,
+      -119.46984
+    ],
+    "end": [
+      37.74421,
+      -119.5037
+    ],
+    "loop": false,
+    "gpx": "gpx/clouds-rest.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "panorama-trail": {
+    "slug": "panorama-trail",
+    "relationIds": [
+      6451907
+    ],
+    "lengthKm": 8.78,
+    "sampledLengthKm": 8.13,
+    "ascentM": 627,
+    "descentM": 265,
+    "ascentRawM": 692,
+    "descentRawM": 329,
+    "minElevationM": 1795,
+    "maxElevationM": 2219,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 221,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.72237,
+      -119.53542
+    ],
+    "end": [
+      37.7278,
+      -119.57328
+    ],
+    "loop": false,
+    "gpx": "gpx/panorama-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "rim-to-rim": {
+    "slug": "rim-to-rim",
+    "relationIds": [
+      2836789,
+      2836803
+    ],
+    "lengthKm": 35.59,
+    "sampledLengthKm": 30.29,
+    "ascentM": 1398,
+    "descentM": 1823,
+    "ascentRawM": 1609,
+    "descentRawM": 2035,
+    "minElevationM": 750,
+    "maxElevationM": 2511,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 447,
+    "segmentCount": 2,
+    "gapsM": [
+      1970.2
+    ],
+    "start": [
+      36.21709,
+      -112.05665
+    ],
+    "end": [
+      36.05728,
+      -112.14363
+    ],
+    "loop": false,
+    "gpx": "gpx/rim-to-rim.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "john-muir-trail": {
+    "slug": "john-muir-trail",
+    "relationIds": [
+      1244828
+    ],
+    "lengthKm": 335.73,
+    "sampledLengthKm": 271.84,
+    "ascentM": 12581,
+    "descentM": 9409,
+    "ascentRawM": 13472,
+    "descentRawM": 10287,
+    "minElevationM": 1242,
+    "maxElevationM": 4414,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 350,
+    "sampleCount": 960,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.73282,
+      -119.55778
+    ],
+    "end": [
+      36.57859,
+      -118.29214
+    ],
+    "loop": false,
+    "gpx": "gpx/john-muir-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~350 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "mount-whitney": {
+    "slug": "mount-whitney",
+    "relationIds": [
+      3289187
+    ],
+    "lengthKm": 16.97,
+    "sampledLengthKm": 12.51,
+    "ascentM": 1929,
+    "descentM": 59,
+    "ascentRawM": 1962,
+    "descentRawM": 86,
+    "minElevationM": 2543,
+    "maxElevationM": 4414,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 213,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      36.58688,
+      -118.24014
+    ],
+    "end": [
+      36.57859,
+      -118.29214
+    ],
+    "loop": false,
+    "gpx": "gpx/mount-whitney.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "wonderland-trail": {
+    "slug": "wonderland-trail",
+    "relationIds": [
+      4111743
+    ],
+    "lengthKm": 139.0,
+    "sampledLengthKm": 114.73,
+    "ascentM": 6706,
+    "descentM": 6708,
+    "ascentRawM": 7286,
+    "descentRawM": 7286,
+    "minElevationM": 753,
+    "maxElevationM": 2046,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 633,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      46.76987,
+      -121.73341
+    ],
+    "end": [
+      46.76987,
+      -121.73341
+    ],
+    "loop": true,
+    "gpx": "gpx/wonderland-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "enchantments": {
+    "slug": "enchantments",
+    "relationIds": [
+      4829792
+    ],
+    "lengthKm": 28.86,
+    "sampledLengthKm": 25.32,
+    "ascentM": 1398,
+    "descentM": 2044,
+    "ascentRawM": 1584,
+    "descentRawM": 2222,
+    "minElevationM": 400,
+    "maxElevationM": 2385,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 362,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      47.52779,
+      -120.82077
+    ],
+    "end": [
+      47.54416,
+      -120.7097
+    ],
+    "loop": false,
+    "gpx": "gpx/enchantments.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "kalalau": {
+    "slug": "kalalau",
+    "relationIds": [
+      9146299
+    ],
+    "lengthKm": 15.91,
+    "sampledLengthKm": 13.08,
+    "ascentM": 826,
+    "descentM": 813,
+    "ascentRawM": 1400,
+    "descentRawM": 1378,
+    "minElevationM": 9,
+    "maxElevationM": 208,
+    "elevationDataset": "srtm30m",
+    "elevationDatasetsTried": [
+      "srtm30m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 200,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      22.22042,
+      -159.58271
+    ],
+    "end": [
+      22.17154,
+      -159.65952
+    ],
+    "loop": false,
+    "gpx": "gpx/kalalau.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData srtm30m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "franconia-ridge": {
+    "slug": "franconia-ridge",
+    "relationIds": [
+      7729143
+    ],
+    "lengthKm": 7.24,
+    "sampledLengthKm": 7.08,
+    "ascentM": 352,
+    "descentM": 645,
+    "ascentRawM": 396,
+    "descentRawM": 705,
+    "minElevationM": 1181,
+    "maxElevationM": 1594,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 182,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      44.16086,
+      -71.64445
+    ],
+    "end": [
+      44.10779,
+      -71.628
+    ],
+    "loop": false,
+    "gpx": "gpx/franconia-ridge.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "teton-crest": {
+    "slug": "teton-crest",
+    "relationIds": [
+      3895101
+    ],
+    "lengthKm": 57.54,
+    "sampledLengthKm": 51.07,
+    "ascentM": 2119,
+    "descentM": 2745,
+    "ascentRawM": 2312,
+    "descentRawM": 2937,
+    "minElevationM": 2095,
+    "maxElevationM": 3259,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 140,
+    "sampleCount": 412,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      43.54809,
+      -110.93199
+    ],
+    "end": [
+      43.78497,
+      -110.72801
+    ],
+    "loop": false,
+    "gpx": "gpx/teton-crest.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~140 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "longs-peak": {
+    "slug": "longs-peak",
+    "relationIds": [
+      6747615
+    ],
+    "lengthKm": 11.04,
+    "sampledLengthKm": 10.56,
+    "ascentM": 1497,
+    "descentM": 19,
+    "ascentRawM": 1547,
+    "descentRawM": 70,
+    "minElevationM": 2864,
+    "maxElevationM": 4345,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 277,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      40.27183,
+      -105.557
+    ],
+    "end": [
+      40.25485,
+      -105.61522
+    ],
+    "loop": false,
+    "gpx": "gpx/longs-peak.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "timberline-trail": {
+    "slug": "timberline-trail",
+    "relationIds": [
+      7641482
+    ],
+    "lengthKm": 64.46,
+    "sampledLengthKm": 54.79,
+    "ascentM": 2659,
+    "descentM": 2652,
+    "ascentRawM": 3063,
+    "descentRawM": 3063,
+    "minElevationM": 1013,
+    "maxElevationM": 2230,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 140,
+    "sampleCount": 462,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      45.32195,
+      -121.69604
+    ],
+    "end": [
+      45.32195,
+      -121.69604
+    ],
+    "loop": true,
+    "gpx": "gpx/timberline-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~140 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "havasupai": {
+    "slug": "havasupai",
+    "relationIds": [
+      8264386
+    ],
+    "lengthKm": 16.64,
+    "sampledLengthKm": 15.74,
+    "ascentM": 24,
+    "descentM": 776,
+    "ascentRawM": 118,
+    "descentRawM": 870,
+    "minElevationM": 828,
+    "maxElevationM": 1580,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 209,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      36.15985,
+      -112.70921
+    ],
+    "end": [
+      36.26273,
+      -112.70934
+    ],
+    "loop": false,
+    "gpx": "gpx/havasupai.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "navajo-loop": {
+    "slug": "navajo-loop",
+    "relationIds": [
+      7758461
+    ],
+    "lengthKm": 2.19,
+    "sampledLengthKm": 1.7,
+    "ascentM": 151,
+    "descentM": 151,
+    "ascentRawM": 165,
+    "descentRawM": 165,
+    "minElevationM": 2283,
+    "maxElevationM": 2434,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 56,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.62197,
+      -112.16612
+    ],
+    "end": [
+      37.62197,
+      -112.16612
+    ],
+    "loop": true,
+    "gpx": "gpx/navajo-loop.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "precipice-trail": {
+    "slug": "precipice-trail",
+    "relationIds": [
+      9816832
+    ],
+    "lengthKm": 1.08,
+    "sampledLengthKm": 0.98,
+    "ascentM": 293,
+    "descentM": 15,
+    "ascentRawM": 312,
+    "descentRawM": 23,
+    "minElevationM": 42,
+    "maxElevationM": 321,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 28,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      44.34951,
+      -68.18792
+    ],
+    "end": [
+      44.35069,
+      -68.19397
+    ],
+    "loop": false,
+    "gpx": "gpx/precipice-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "monitor-ridge": {
+    "slug": "monitor-ridge",
+    "relationIds": [
+      7006673
+    ],
+    "lengthKm": 6.9,
+    "sampledLengthKm": 6.66,
+    "ascentM": 1405,
+    "descentM": 22,
+    "ascentRawM": 1419,
+    "descentRawM": 35,
+    "minElevationM": 1146,
+    "maxElevationM": 2529,
+    "elevationDataset": "ned10m",
+    "elevationDatasetsTried": [
+      "ned10m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 174,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      46.14621,
+      -122.18348
+    ],
+    "end": [
+      46.19142,
+      -122.19579
+    ],
+    "loop": false,
+    "gpx": "gpx/monitor-ridge.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData ned10m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "tour-du-mont-blanc": {
+    "slug": "tour-du-mont-blanc",
+    "relationIds": [
+      9678362
+    ],
+    "lengthKm": 165.94,
+    "sampledLengthKm": 139.94,
+    "ascentM": 8929,
+    "descentM": 8937,
+    "ascentRawM": 9765,
+    "descentRawM": 9765,
+    "minElevationM": 992,
+    "maxElevationM": 2510,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 755,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      45.76639,
+      6.83879
+    ],
+    "end": [
+      45.76639,
+      6.83879
+    ],
+    "loop": true,
+    "gpx": "gpx/tour-du-mont-blanc.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "walkers-haute-route": {
+    "slug": "walkers-haute-route",
+    "relationIds": [
+      3020521
+    ],
+    "lengthKm": 209.42,
+    "sampledLengthKm": 171.97,
+    "ascentM": 12617,
+    "descentM": 12039,
+    "ascentRawM": 13868,
+    "descentRawM": 13290,
+    "minElevationM": 728,
+    "maxElevationM": 2924,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 953,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      45.9232,
+      6.86969
+    ],
+    "end": [
+      46.01964,
+      7.74668
+    ],
+    "loop": false,
+    "gpx": "gpx/walkers-haute-route.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "gr20": {
+    "slug": "gr20",
+    "relationIds": [
+      12484370
+    ],
+    "lengthKm": 183.58,
+    "sampledLengthKm": 158.78,
+    "ascentM": 10406,
+    "descentM": 10423,
+    "ascentRawM": 11673,
+    "descentRawM": 11698,
+    "minElevationM": 267,
+    "maxElevationM": 2541,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 836,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      42.50815,
+      8.85485
+    ],
+    "end": [
+      41.73478,
+      9.334
+    ],
+    "loop": false,
+    "gpx": "gpx/gr20.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "alta-via-1": {
+    "slug": "alta-via-1",
+    "relationIds": [
+      177743
+    ],
+    "lengthKm": 117.9,
+    "sampledLengthKm": 103.64,
+    "ascentM": 6606,
+    "descentM": 7715,
+    "ascentRawM": 7746,
+    "descentRawM": 8856,
+    "minElevationM": 394,
+    "maxElevationM": 2570,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 140,
+    "sampleCount": 843,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      46.69802,
+      12.08397
+    ],
+    "end": [
+      46.13799,
+      12.21681
+    ],
+    "loop": false,
+    "gpx": "gpx/alta-via-1.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~140 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "alta-via-2": {
+    "slug": "alta-via-2",
+    "relationIds": [
+      404914
+    ],
+    "lengthKm": 157.99,
+    "sampledLengthKm": 129.96,
+    "ascentM": 10014,
+    "descentM": 10762,
+    "ascentRawM": 11694,
+    "descentRawM": 12429,
+    "minElevationM": 334,
+    "maxElevationM": 2928,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 719,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      46.69717,
+      11.68256
+    ],
+    "end": [
+      46.03549,
+      11.88338
+    ],
+    "loop": false,
+    "gpx": "gpx/alta-via-2.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "west-highland-way": {
+    "slug": "west-highland-way",
+    "relationIds": [
+      16287
+    ],
+    "lengthKm": 153.88,
+    "sampledLengthKm": 143.93,
+    "ascentM": 2597,
+    "descentM": 2646,
+    "ascentRawM": 3223,
+    "descentRawM": 3272,
+    "minElevationM": 7,
+    "maxElevationM": 544,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 702,
+    "segmentCount": 2,
+    "gapsM": [
+      488.0
+    ],
+    "start": [
+      55.94141,
+      -4.31784
+    ],
+    "end": [
+      56.81639,
+      -5.11416
+    ],
+    "loop": false,
+    "gpx": "gpx/west-highland-way.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "laugavegur": {
+    "slug": "laugavegur",
+    "relationIds": [
+      1225037
+    ],
+    "lengthKm": 50.23,
+    "sampledLengthKm": 47.94,
+    "ascentM": 1114,
+    "descentM": 1501,
+    "ascentRawM": 1488,
+    "descentRawM": 1859,
+    "minElevationM": 216,
+    "maxElevationM": 1041,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 140,
+    "sampleCount": 361,
+    "segmentCount": 2,
+    "gapsM": [
+      2603.0
+    ],
+    "start": [
+      63.9906,
+      -19.06158
+    ],
+    "end": [
+      63.6843,
+      -19.51238
+    ],
+    "loop": false,
+    "gpx": "gpx/laugavegur.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~140 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "fimmvorduhals": {
+    "slug": "fimmvorduhals",
+    "relationIds": [
+      396940
+    ],
+    "lengthKm": 23.2,
+    "sampledLengthKm": 22.07,
+    "ascentM": 1109,
+    "descentM": 918,
+    "ascentRawM": 1233,
+    "descentRawM": 1022,
+    "minElevationM": 41,
+    "maxElevationM": 1031,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 291,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      63.53012,
+      -19.5117
+    ],
+    "end": [
+      63.67793,
+      -19.48262
+    ],
+    "loop": false,
+    "gpx": "gpx/fimmvorduhals.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "kungsleden": {
+    "slug": "kungsleden",
+    "relationIds": [
+      1657661
+    ],
+    "lengthKm": 540.49,
+    "sampledLengthKm": 517.07,
+    "ascentM": 8843,
+    "descentM": 8709,
+    "ascentRawM": 10371,
+    "descentRawM": 10249,
+    "minElevationM": 296,
+    "maxElevationM": 1120,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 350,
+    "sampleCount": 1545,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      68.35831,
+      18.78085
+    ],
+    "end": [
+      65.81772,
+      15.09073
+    ],
+    "loop": false,
+    "gpx": "gpx/kungsleden.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~350 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "camino-frances": {
+    "slug": "camino-frances",
+    "relationIds": [
+      2163573
+    ],
+    "lengthKm": 768.55,
+    "sampledLengthKm": 723.81,
+    "ascentM": 8968,
+    "descentM": 8877,
+    "ascentRawM": 11316,
+    "descentRawM": 11221,
+    "minElevationM": 186,
+    "maxElevationM": 1502,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 350,
+    "sampleCount": 2197,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      43.16234,
+      -1.23723
+    ],
+    "end": [
+      42.88094,
+      -8.54536
+    ],
+    "loop": false,
+    "gpx": "gpx/camino-frances.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~350 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "tour-monte-rosa": {
+    "slug": "tour-monte-rosa",
+    "relationIds": [
+      10353523
+    ],
+    "lengthKm": 165.15,
+    "sampledLengthKm": 137.11,
+    "ascentM": 9514,
+    "descentM": 9553,
+    "ascentRawM": 10770,
+    "descentRawM": 10772,
+    "minElevationM": 1191,
+    "maxElevationM": 3325,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 752,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      45.9435,
+      7.70871
+    ],
+    "end": [
+      45.94439,
+      7.70747
+    ],
+    "loop": true,
+    "gpx": "gpx/tour-monte-rosa.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "eiger-trail": {
+    "slug": "eiger-trail",
+    "relationIds": [
+      19465820
+    ],
+    "lengthKm": 5.94,
+    "sampledLengthKm": 5.46,
+    "ascentM": 76,
+    "descentM": 773,
+    "ascentRawM": 121,
+    "descentRawM": 817,
+    "minElevationM": 1605,
+    "maxElevationM": 2324,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 150,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      46.57533,
+      7.97357
+    ],
+    "end": [
+      46.60023,
+      8.00451
+    ],
+    "loop": false,
+    "gpx": "gpx/eiger-trail.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "trolltunga": {
+    "slug": "trolltunga",
+    "relationIds": [
+      4270209
+    ],
+    "lengthKm": 11.11,
+    "sampledLengthKm": 10.57,
+    "ascentM": 296,
+    "descentM": 1020,
+    "ascentRawM": 343,
+    "descentRawM": 1068,
+    "minElevationM": 420,
+    "maxElevationM": 1211,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 279,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      60.13291,
+      6.75425
+    ],
+    "end": [
+      60.13301,
+      6.62413
+    ],
+    "loop": false,
+    "gpx": "gpx/trolltunga.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "preikestolen": {
+    "slug": "preikestolen",
+    "relationIds": [
+      4270259
+    ],
+    "lengthKm": 8.21,
+    "sampledLengthKm": 7.63,
+    "ascentM": 451,
+    "descentM": 451,
+    "ascentRawM": 570,
+    "descentRawM": 570,
+    "minElevationM": 280,
+    "maxElevationM": 619,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 206,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      58.99104,
+      6.13809
+    ],
+    "end": [
+      58.99104,
+      6.13809
+    ],
+    "loop": true,
+    "gpx": "gpx/preikestolen.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "llanberis-path": {
+    "slug": "llanberis-path",
+    "relationIds": [
+      4004181
+    ],
+    "lengthKm": 6.05,
+    "sampledLengthKm": 5.96,
+    "ascentM": 810,
+    "descentM": 14,
+    "ascentRawM": 824,
+    "descentRawM": 24,
+    "minElevationM": 237,
+    "maxElevationM": 1033,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 152,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      53.10865,
+      -4.12053
+    ],
+    "end": [
+      53.06885,
+      -4.07687
+    ],
+    "loop": false,
+    "gpx": "gpx/llanberis-path.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "ben-nevis": {
+    "slug": "ben-nevis",
+    "relationIds": [
+      4004229
+    ],
+    "lengthKm": 7.94,
+    "sampledLengthKm": 7.67,
+    "ascentM": 1313,
+    "descentM": 5,
+    "ascentRawM": 1330,
+    "descentRawM": 23,
+    "minElevationM": 17,
+    "maxElevationM": 1329,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 200,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      56.81002,
+      -5.07574
+    ],
+    "end": [
+      56.79671,
+      -5.00367
+    ],
+    "loop": false,
+    "gpx": "gpx/ben-nevis.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "besseggen": {
+    "slug": "besseggen",
+    "relationIds": [
+      1417687
+    ],
+    "lengthKm": 14.26,
+    "sampledLengthKm": 13.57,
+    "ascentM": 1058,
+    "descentM": 1026,
+    "ascentRawM": 1129,
+    "descentRawM": 1081,
+    "minElevationM": 997,
+    "maxElevationM": 1733,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "aster30m",
+      "mapzen"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 179,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      61.49082,
+      8.63436
+    ],
+    "end": [
+      61.49572,
+      8.81366
+    ],
+    "loop": false,
+    "gpx": "gpx/besseggen.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "samaria-gorge": {
+    "slug": "samaria-gorge",
+    "relationIds": [
+      9634834
+    ],
+    "lengthKm": 14.67,
+    "sampledLengthKm": 13.03,
+    "ascentM": 536,
+    "descentM": 1765,
+    "ascentRawM": 762,
+    "descentRawM": 1993,
+    "minElevationM": 4,
+    "maxElevationM": 1234,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 185,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      35.30799,
+      23.91835
+    ],
+    "end": [
+      35.22929,
+      23.95999
+    ],
+    "loop": false,
+    "gpx": "gpx/samaria-gorge.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "hadrians-wall": {
+    "slug": "hadrians-wall",
+    "relationIds": [
+      38791
+    ],
+    "lengthKm": 137.72,
+    "sampledLengthKm": 130.31,
+    "ascentM": 1154,
+    "descentM": 1147,
+    "ascentRawM": 1460,
+    "descentRawM": 1454,
+    "minElevationM": 0,
+    "maxElevationM": 316,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 627,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      54.95392,
+      -3.21283
+    ],
+    "end": [
+      54.98798,
+      -1.53025
+    ],
+    "loop": false,
+    "gpx": "gpx/hadrians-wall.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "pennine-way": {
+    "slug": "pennine-way",
+    "relationIds": [
+      4080347
+    ],
+    "lengthKm": 411.86,
+    "sampledLengthKm": 383.6,
+    "ascentM": 7731,
+    "descentM": 7896,
+    "ascentRawM": 9667,
+    "descentRawM": 9803,
+    "minElevationM": 113,
+    "maxElevationM": 885,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 350,
+    "sampleCount": 1178,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      53.37048,
+      -1.81686
+    ],
+    "end": [
+      55.54608,
+      -2.27409
+    ],
+    "loop": false,
+    "gpx": "gpx/pennine-way.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~350 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "coast-to-coast": {
+    "slug": "coast-to-coast",
+    "relationIds": [
+      12145
+    ],
+    "lengthKm": 302.43,
+    "sampledLengthKm": 278.07,
+    "ascentM": 5548,
+    "descentM": 5536,
+    "ascentRawM": 6746,
+    "descentRawM": 6739,
+    "minElevationM": 17,
+    "maxElevationM": 760,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 350,
+    "sampleCount": 866,
+    "segmentCount": 2,
+    "gapsM": [
+      346.1
+    ],
+    "start": [
+      54.49075,
+      -3.60669
+    ],
+    "end": [
+      54.43025,
+      -0.53211
+    ],
+    "loop": false,
+    "gpx": "gpx/coast-to-coast.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~350 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "ruta-del-cares": {
+    "slug": "ruta-del-cares",
+    "relationIds": [
+      2687934
+    ],
+    "lengthKm": 19.78,
+    "sampledLengthKm": 18.27,
+    "ascentM": 1570,
+    "descentM": 932,
+    "ascentRawM": 2270,
+    "descentRawM": 1633,
+    "minElevationM": 276,
+    "maxElevationM": 934,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 80,
+    "sampleCount": 248,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      43.25694,
+      -4.83294
+    ],
+    "end": [
+      43.15247,
+      -4.92058
+    ],
+    "loop": false,
+    "gpx": "gpx/ruta-del-cares.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~80 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "gr221": {
+    "slug": "gr221",
+    "relationIds": [
+      383060
+    ],
+    "lengthKm": 46.53,
+    "sampledLengthKm": 38.98,
+    "ascentM": 1219,
+    "descentM": 1980,
+    "ascentRawM": 1560,
+    "descentRawM": 2296,
+    "minElevationM": 0,
+    "maxElevationM": 879,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 140,
+    "sampleCount": 336,
+    "segmentCount": 3,
+    "gapsM": [
+      7338.8,
+      39607.7
+    ],
+    "start": [
+      39.78686,
+      2.79784
+    ],
+    "end": [
+      39.54203,
+      2.39132
+    ],
+    "loop": false,
+    "gpx": "gpx/gr221.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~140 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "trilho-dos-pescadores": {
+    "slug": "trilho-dos-pescadores",
+    "relationIds": [
+      20810829
+    ],
+    "lengthKm": 222.83,
+    "sampledLengthKm": 200.01,
+    "ascentM": 2083,
+    "descentM": 2090,
+    "ascentRawM": 3240,
+    "descentRawM": 3247,
+    "minElevationM": 0,
+    "maxElevationM": 154,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 220,
+    "sampleCount": 1014,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      37.92756,
+      -8.80679
+    ],
+    "end": [
+      37.109,
+      -8.6721
+    ],
+    "loop": false,
+    "gpx": "gpx/trilho-dos-pescadores.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~220 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  },
+  "caminito-del-rey": {
+    "slug": "caminito-del-rey",
+    "relationIds": [
+      4678863
+    ],
+    "lengthKm": 3.28,
+    "sampledLengthKm": 3.1,
+    "ascentM": 481,
+    "descentM": 460,
+    "ascentRawM": 654,
+    "descentRawM": 633,
+    "minElevationM": 216,
+    "maxElevationM": 505,
+    "elevationDataset": "eudem25m",
+    "elevationDatasetsTried": [
+      "eudem25m",
+      "srtm30m",
+      "aster30m"
+    ],
+    "elevationCoverage": 1.0,
+    "sampleSpacingM": 40,
+    "sampleCount": 83,
+    "segmentCount": 1,
+    "gapsM": [],
+    "start": [
+      36.91597,
+      -4.77126
+    ],
+    "end": [
+      36.93226,
+      -4.78941
+    ],
+    "loop": false,
+    "gpx": "gpx/caminito-del-rey.gpx",
+    "lengthMethod": "Full-resolution OSM geometry, WGS84 haversine, Earth radius 6371008.8 m. Breaks between segments are not bridged and are not counted.",
+    "ascentMethod": "OpenTopoData eudem25m at ~40 m spacing along the track. Elevations are smoothed with a 3-point median. Ascent is the sum of positive differences on contiguous samples. Voids break the sum and are not interpolated."
+  }
+}

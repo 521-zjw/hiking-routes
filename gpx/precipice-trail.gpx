@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="hiking-routes-guide"
+ xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>precipice-trail</name>
+    <desc>Geometry from OpenStreetMap relation(s) 9816832. © OpenStreetMap contributors, ODbL 1.0. Track resampled at about 40 m from the full relation geometry (full-resolution length 1.08 km; gaps between segments are not filled). Elevations, where present, are samples from OpenTopoData dataset ned10m at those resampled points — not a ground survey. Points without &lt;ele&gt; are DEM voids.</desc>
+    <author><name>OpenStreetMap contributors</name></author>
+    <copyright author="OpenStreetMap contributors">ODbL-1.0</copyright>
+    <link href="https://www.openstreetmap.org/copyright"><text>© OpenStreetMap contributors, ODbL</text></link>
+  </metadata>
+  <trk>
+    <name>precipice-trail</name>
+    <desc>© OpenStreetMap contributors, ODbL. Elevations where present are DEM samples, not a survey.</desc>
+    <trkseg>
+      <trkpt lat="44.349511" lon="-68.187922"><ele>42.1</ele></trkpt>
+      <trkpt lat="44.349544" lon="-68.188405"><ele>42.1</ele></trkpt>
+      <trkpt lat="44.349365" lon="-68.188813"><ele>54.0</ele></trkpt>
+      <trkpt lat="44.349091" lon="-68.189106"><ele>58.9</ele></trkpt>
+      <trkpt lat="44.349324" lon="-68.189344"><ele>68.7</ele></trkpt>
+      <trkpt lat="44.349653" lon="-68.189371"><ele>71.2</ele></trkpt>
+      <trkpt lat="44.349654" lon="-68.189833"><ele>89.8</ele></trkpt>
+      <trkpt lat="44.349889" lon="-68.190185"><ele>98.7</ele></trkpt>
+      <trkpt lat="44.350205" lon="-68.190296"><ele>115.1</ele></trkpt>
+      <trkpt lat="44.350556" lon="-68.190204"><ele>115.1</ele></trkpt>
+      <trkpt lat="44.350812" lon="-68.189858"><ele>100.3</ele></trkpt>
+      <trkpt lat="44.351140" lon="-68.189680"><ele>100.3</ele></trkpt>
+      <trkpt lat="44.351376" lon="-68.189862"><ele>114.7</ele></trkpt>
+      <trkpt lat="44.351046" lon="-68.190031"><ele>127.5</ele></trkpt>
+      <trkpt lat="44.350786" lon="-68.190374"><ele>149.2</ele></trkpt>
+      <trkpt lat="44.350526" lon="-68.190715"><ele>166.9</ele></trkpt>
+      <trkpt lat="44.350209" lon="-68.190946"><ele>180.6</ele></trkpt>
+      <trkpt lat="44.349866" lon="-68.191074"><ele>197.6</ele></trkpt>
+      <trkpt lat="44.349510" lon="-68.191009"><ele>199.6</ele></trkpt>
+      <trkpt lat="44.349647" lon="-68.191222"><ele>228.2</ele></trkpt>
+      <trkpt lat="44.349896" lon="-68.191508"><ele>261.2</ele></trkpt>
+      <trkpt lat="44.349879" lon="-68.191905"><ele>278.7</ele></trkpt>
+      <trkpt lat="44.350145" lon="-68.192241"><ele>280.0</ele></trkpt>
+      <trkpt lat="44.350367" lon="-68.192622"><ele>284.9</ele></trkpt>
+      <trkpt lat="44.350572" lon="-68.193035"><ele>293.5</ele></trkpt>
+      <trkpt lat="44.350596" lon="-68.193391"><ele>303.1</ele></trkpt>
+      <trkpt lat="44.350460" lon="-68.193619"><ele>310.6</ele></trkpt>
+      <trkpt lat="44.350687" lon="-68.193968"><ele>320.7</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
